@@ -1,0 +1,6 @@
+{
+  "name": "Rankz Digital",
+  "description": "Rankz Digital - Futuristic AI-Driven Digital Marketing Agency specializing in SEO, Google Ads, Meta Ads, and Social Media Marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
